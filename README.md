@@ -127,8 +127,8 @@ extend the [AggregateRoot](src/Shared/Domain/Aggregate/AggregateRoot.php).
 ### Command Bus
 
 There is 1 implementations of the [command bus](src/Shared/Domain/Bus/Command/CommandBus.php).
-1. [Sync](src/Shared/Infrastructure/Bus/Command/InMemorySymfonyCommandBus.php) using the Symfony Message Bus.
 
+1. [Sync](src/Shared/Infrastructure/Bus/Command/InMemorySymfonyCommandBus.php) using the Symfony Message Bus.
 
 ### Query Bus
 
@@ -153,7 +153,6 @@ some guidelines feel free to contact us :)
 
 This code was shown in the [From framework coupled code to #microservices through #DDD](http://codely.tv/blog/screencasts/codigo-acoplado-framework-microservicios-ddd) talk and doubts where answered in the [DDD y CQRS: Preguntas Frecuentes](https://codely.com/blog/ddd-cqrs-preguntas-frecuentes) video.
 
-
 🎥 Used in the CodelyTV Pro courses:
 
 - [🇪🇸 DDD in PHP](https://pro.codely.tv/library/ddd-en-php/about/)
@@ -164,3 +163,5 @@ This code was shown in the [From framework coupled code to #microservices throug
 ## 🌐 remember to visit our courses
 
 - [Courses codely](https://codely.com/cursos)
+
+mimimi
